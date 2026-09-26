@@ -5,7 +5,7 @@
 ## 成品
 | 文件 | 说明 |
 |---|---|
-| [Release](https://github.com/Moeblack/ai-dev-story-pv/releases) · `AI公司PV_中文版.mp4` | 成片（H.264 + AAC，30fps） |
+| [Release v1.0](https://github.com/Moeblack/ai-dev-story-pv/releases/tag/v1.0) · `AI-Dev-Story-PV_zh-CN.mp4` | 成片（H.264 + AAC，30fps） |
 | `成片/B站封面_16x10.png` / `_16x9.png` / `_4x3.png` | B 站封面三种比例 |
 
 ## 目录
