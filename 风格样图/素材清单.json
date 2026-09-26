@@ -1,0 +1,254 @@
+{
+  "stage": "仅供用户审查的关键场景风格样图",
+  "provider": "ComfyUI（本机）",
+  "image_model": "Qwen-Image 2.1",
+  "request_count": 8,
+  "samples": [
+    {
+      "id": "S01",
+      "slug": "办公室开局",
+      "title": "一间小办公室，一家新 AI 公司",
+      "scene": "A compact cutaway software office viewed from a fixed three quarter overhead angle. Four workstations sit on a square tile grid, with only two computers powered on. A black haired founder in a white shirt and blue trousers stands at the door, while a black hoodie engineer sits at a computer. A cardboard box, one tiny potted plant and one server tower make the room feel like a new company. Leave an empty workstation clearly visible as an invitation to hire. A small pale blue white dialogue window says NEW COMPANY. The top resource bar reads CASH 100K and GPU 2. The bottom command buttons read HIRE, TRAIN, RELEASE. Warm pale flooring, muted blue walls and a green development indicator. The office is the main object, surrounded by functional game interface, not a poster.",
+      "frame_role": "办公室构图与常驻HUD",
+      "neta": "创业开局；GPU紧缺预埋",
+      "prompt": "Create one wide 16 to 9 game screenshot that closely follows the supplied Game Dev Story references, not a poster, mood board or collage. The first input defines the original game visual grammar, including its cutaway three quarter overhead office, dense tiny pixel employees, tiled furniture placement, chunky numbered counters and blue white management interface. Additional inputs define the indicated interface layout or the fictional company continuity only. Preserve the crisp small sprite construction and stepped pixel edges of the original references, using a limited color palette, simple shaded rectangular furniture, warm wood floors and pale office walls. Treat the world as an approximately 384 by 216 logical pixel composition enlarged cleanly to 1536 by 864, with carefully aligned high resolution antialiased humanist sans serif interface text, as in the modern PC port reference. Scene sprites and icons remain pixelated, but popup body text must not use a pixel font. Use pale blue or near white popup bodies, blue gray bevel borders, a pale blue title strip, dark blue text, blue white top and bottom HUD bars and small selected command buttons with a hand pointer. Limit soft shading to the restrained classic interface bevel visible in the reference. Use green progress, yellow attention icons and red cost or bug warnings. Do not replace this interface with black space, cream retro fantasy panels, modern rounded app cards, glossy 3D, cinematic depth of field, realistic lighting, painted textures, giant portraits or detailed anime faces. The office remains visible around event windows. All company names and people are fictional. A compact cutaway software office viewed from a fixed three quarter overhead angle. Four workstations sit on a square tile grid, with only two computers powered on. A black haired founder in a white shirt and blue trousers stands at the door, while a black hoodie engineer sits at a computer. A cardboard box, one tiny potted plant and one server tower make the room feel like a new company. Leave an empty workstation clearly visible as an invitation to hire. A small pale blue white dialogue window says NEW COMPANY. The top resource bar reads CASH 100K and GPU 2. The bottom command buttons read HIRE, TRAIN, RELEASE. Warm pale flooring, muted blue walls and a green development indicator. The office is the main object, surrounded by functional game interface, not a poster. The second input is only a reference for interface borders, menu hierarchy and small event sprites. Do not reproduce its game title, exact characters, or unrelated subject matter.",
+      "prompt_path": "风格样图/S01-办公室开局.txt",
+      "references": [
+        "参考帧/视频抽帧/GDS_trailer_00m16s_办公室_斜视四人桌面.png",
+        "参考帧/视频抽帧/GDS_trailer_00m11s_招聘_HireNewEmployees弹窗.png"
+      ],
+      "status": "completed",
+      "files": [
+        {
+          "path": "风格样图/S01-办公室开局.png",
+          "mimeType": "image/png",
+          "bytes": 1953097,
+          "metadata": {
+            "index": 0,
+            "id": "ig_0f6747cb30d8dd72016ab7e95fd36887d182aec5d8c4fe3e79",
+            "status": "completed",
+            "size": "1672x941",
+            "quality": "medium",
+            "output_format": "png"
+          }
+        }
+      ]
+    },
+    {
+      "id": "S02",
+      "slug": "招聘挖人",
+      "title": "人才市场：能力很强，签字费更强",
+      "scene": "The same small fictional AI company office sits behind a large pale blue white recruitment window with a pale blue title strip with dark blue text reading HIRE TALENT. Three tiny full body candidate sprites are arranged in three rows beside simple skill bars. The highlighted candidate wears a black hoodie and glasses and holds a coffee cup. Its row reads RESEARCH 99, ENGINEERING 92, SALARY 80K. A rival manager at the side of the window offers a giant pixel money bag, while the founder in a white shirt stares at a flashing COST UP bubble. At the bottom the orange HIRE button is selected by a small white glove shaped pointer. The joke is competitive recruiting and a frightening salary, not a portrait of any real executive. Keep the office and all characters visibly drawn as a low resolution simulation game.",
+      "frame_role": "招聘/人员窗口",
+      "neta": "人才挖角、巨额签字费",
+      "prompt": "Create one wide 16 to 9 game screenshot that closely follows the supplied Game Dev Story references, not a poster, mood board or collage. The first input defines the original game visual grammar, including its cutaway three quarter overhead office, dense tiny pixel employees, tiled furniture placement, chunky numbered counters and blue white management interface. Additional inputs define the indicated interface layout or the fictional company continuity only. Preserve the crisp small sprite construction and stepped pixel edges of the original references, using a limited color palette, simple shaded rectangular furniture, warm wood floors and pale office walls. Treat the world as an approximately 384 by 216 logical pixel composition enlarged cleanly to 1536 by 864, with carefully aligned high resolution antialiased humanist sans serif interface text, as in the modern PC port reference. Scene sprites and icons remain pixelated, but popup body text must not use a pixel font. Use pale blue or near white popup bodies, blue gray bevel borders, a pale blue title strip, dark blue text, blue white top and bottom HUD bars and small selected command buttons with a hand pointer. Limit soft shading to the restrained classic interface bevel visible in the reference. Use green progress, yellow attention icons and red cost or bug warnings. Do not replace this interface with black space, cream retro fantasy panels, modern rounded app cards, glossy 3D, cinematic depth of field, realistic lighting, painted textures, giant portraits or detailed anime faces. The office remains visible around event windows. All company names and people are fictional. The same small fictional AI company office sits behind a large pale blue white recruitment window with a pale blue title strip with dark blue text reading HIRE TALENT. Three tiny full body candidate sprites are arranged in three rows beside simple skill bars. The highlighted candidate wears a black hoodie and glasses and holds a coffee cup. Its row reads RESEARCH 99, ENGINEERING 92, SALARY 80K. A rival manager at the side of the window offers a giant pixel money bag, while the founder in a white shirt stares at a flashing COST UP bubble. At the bottom the orange HIRE button is selected by a small white glove shaped pointer. The joke is competitive recruiting and a frightening salary, not a portrait of any real executive. Keep the office and all characters visibly drawn as a low resolution simulation game. The second input is only a reference for interface borders, menu hierarchy and small event sprites. Do not reproduce its game title, exact characters, or unrelated subject matter.",
+      "prompt_path": "风格样图/S02-招聘挖人.txt",
+      "references": [
+        "参考帧/视频抽帧/GDS_trailer_00m16s_办公室_斜视四人桌面.png",
+        "参考帧/视频抽帧/GDS_trailer_00m11s_招聘_HireNewEmployees弹窗.png"
+      ],
+      "status": "completed",
+      "files": [
+        {
+          "path": "风格样图/S02-招聘挖人.png",
+          "mimeType": "image/png",
+          "bytes": 1922744,
+          "metadata": {
+            "index": 0,
+            "id": "ig_0c60efd86e9c8e1a016ab7e95c674887d1968f1871aee1650a",
+            "status": "completed",
+            "size": "1672x941",
+            "quality": "medium",
+            "output_format": "png"
+          }
+        }
+      ]
+    },
+    {
+      "id": "S03",
+      "slug": "模型开发",
+      "title": "训练 99%，显卡正在排队",
+      "scene": "A busy overhead AI office with six tiny engineers typing at desktop computers, one character jumping in inspiration and one character sleeping beside an empty coffee cup. A central pale blue white model development panel reads TRAIN MODEL S1. Its green progress bar reads 99 percent, and small numeric stat bubbles rise above desks. On the right a little GPU server rack has three glowing cards and one conspicuously empty socket, with a red queue icon. A purple heat meter is almost full, and a yellow warning panel reads GPU SHORTAGE. One engineer holds a red bug icon. The founder in a white shirt looks between a diminishing cash meter and the stalled training bar. Emphasize clear strategy game mechanics, small funny working animations frozen at their most readable pose, not a realistic datacenter.",
+      "frame_role": "进度条/小人工作/数值弹出",
+      "neta": "GPU短缺、跑分焦虑、训练卡99%",
+      "prompt": "Create one wide 16 to 9 game screenshot that closely follows the supplied Game Dev Story references, not a poster, mood board or collage. The first input defines the original game visual grammar, including its cutaway three quarter overhead office, dense tiny pixel employees, tiled furniture placement, chunky numbered counters and blue white management interface. Additional inputs define the indicated interface layout or the fictional company continuity only. Preserve the crisp small sprite construction and stepped pixel edges of the original references, using a limited color palette, simple shaded rectangular furniture, warm wood floors and pale office walls. Treat the world as an approximately 384 by 216 logical pixel composition enlarged cleanly to 1536 by 864, with carefully aligned high resolution antialiased humanist sans serif interface text, as in the modern PC port reference. Scene sprites and icons remain pixelated, but popup body text must not use a pixel font. Use pale blue or near white popup bodies, blue gray bevel borders, a pale blue title strip, dark blue text, blue white top and bottom HUD bars and small selected command buttons with a hand pointer. Limit soft shading to the restrained classic interface bevel visible in the reference. Use green progress, yellow attention icons and red cost or bug warnings. Do not replace this interface with black space, cream retro fantasy panels, modern rounded app cards, glossy 3D, cinematic depth of field, realistic lighting, painted textures, giant portraits or detailed anime faces. The office remains visible around event windows. All company names and people are fictional. A busy overhead AI office with six tiny engineers typing at desktop computers, one character jumping in inspiration and one character sleeping beside an empty coffee cup. A central pale blue white model development panel reads TRAIN MODEL S1. Its green progress bar reads 99 percent, and small numeric stat bubbles rise above desks. On the right a little GPU server rack has three glowing cards and one conspicuously empty socket, with a red queue icon. A purple heat meter is almost full, and a yellow warning panel reads GPU SHORTAGE. One engineer holds a red bug icon. The founder in a white shirt looks between a diminishing cash meter and the stalled training bar. Emphasize clear strategy game mechanics, small funny working animations frozen at their most readable pose, not a realistic datacenter. The second input is only a reference for interface borders, menu hierarchy and small event sprites. Do not reproduce its game title, exact characters, or unrelated subject matter. The third input is the fictional company sample for recurring character clothing, office furniture and overall palette continuity. Follow the original game references for sprite density and interface structure.",
+      "prompt_path": "风格样图/S03-模型开发.txt",
+      "references": [
+        "参考帧/视频抽帧/GDS_trailer_00m16s_办公室_斜视四人桌面.png",
+        "参考帧/视频抽帧/GDS_trailer_00m39s_开发进度_WritingProposal进度条.png",
+        "风格样图/S01-办公室开局.png"
+      ],
+      "status": "completed",
+      "files": [
+        {
+          "path": "风格样图/S03-模型开发.png",
+          "mimeType": "image/png",
+          "bytes": 2248099,
+          "metadata": {
+            "index": 0,
+            "id": "ig_0c6d235394c5c667016ab7ea234d2c87d2863188f35bf647a6",
+            "status": "completed",
+            "size": "1672x941",
+            "quality": "medium",
+            "output_format": "png"
+          }
+        }
+      ]
+    },
+    {
+      "id": "S04",
+      "slug": "发布演唱会",
+      "title": "发布模型，却像开了一场演唱会",
+      "scene": "A miniature model launch party presented as an in game event screen. A tiny stage is built inside the expanded AI office, with a pixel microphone, two square speaker stacks and colored spotlights made of simple flat pixel shapes. The black hoodie engineer stands beside a terminal with a MODEL S1 RELEASED label, while a second tiny staff member holds the microphone. A crowd of small office workers wave green and blue glow sticks. A pale blue white event panel with a pale blue title strip with dark blue text says LAUNCH NIGHT. Three small stat rewards read HYPE UP, USERS UP and CASH DOWN. The scene should read as a cheerful absurd software company celebration with concert energy, not a recreation of a factual real world performance and not an anime concert illustration. Keep a visible office desk and development terminal to connect it to the business simulation.",
+      "frame_role": "事件弹窗与群体演出",
+      "neta": "月之暗面演唱会联想，来源状态见溯源文档",
+      "prompt": "Create one wide 16 to 9 game screenshot that closely follows the supplied Game Dev Story references, not a poster, mood board or collage. The first input defines the original game visual grammar, including its cutaway three quarter overhead office, dense tiny pixel employees, tiled furniture placement, chunky numbered counters and blue white management interface. Additional inputs define the indicated interface layout or the fictional company continuity only. Preserve the crisp small sprite construction and stepped pixel edges of the original references, using a limited color palette, simple shaded rectangular furniture, warm wood floors and pale office walls. Treat the world as an approximately 384 by 216 logical pixel composition enlarged cleanly to 1536 by 864, with carefully aligned high resolution antialiased humanist sans serif interface text, as in the modern PC port reference. Scene sprites and icons remain pixelated, but popup body text must not use a pixel font. Use pale blue or near white popup bodies, blue gray bevel borders, a pale blue title strip, dark blue text, blue white top and bottom HUD bars and small selected command buttons with a hand pointer. Limit soft shading to the restrained classic interface bevel visible in the reference. Use green progress, yellow attention icons and red cost or bug warnings. Do not replace this interface with black space, cream retro fantasy panels, modern rounded app cards, glossy 3D, cinematic depth of field, realistic lighting, painted textures, giant portraits or detailed anime faces. The office remains visible around event windows. All company names and people are fictional. A miniature model launch party presented as an in game event screen. A tiny stage is built inside the expanded AI office, with a pixel microphone, two square speaker stacks and colored spotlights made of simple flat pixel shapes. The black hoodie engineer stands beside a terminal with a MODEL S1 RELEASED label, while a second tiny staff member holds the microphone. A crowd of small office workers wave green and blue glow sticks. A pale blue white event panel with a pale blue title strip with dark blue text says LAUNCH NIGHT. Three small stat rewards read HYPE UP, USERS UP and CASH DOWN. The scene should read as a cheerful absurd software company celebration with concert energy, not a recreation of a factual real world performance and not an anime concert illustration. Keep a visible office desk and development terminal to connect it to the business simulation. The second input is only a reference for interface borders, menu hierarchy and small event sprites. Do not reproduce its game title, exact characters, or unrelated subject matter. The third input is the fictional company sample for recurring character clothing, office furniture and overall palette continuity. Follow the original game references for sprite density and interface structure.",
+      "prompt_path": "风格样图/S04-发布演唱会.txt",
+      "references": [
+        "参考帧/视频抽帧/GDS_trailer_00m16s_办公室_斜视四人桌面.png",
+        "参考帧/视频抽帧/GDS_trailer_00m46s_员工_Event全员兴奋.png",
+        "风格样图/S01-办公室开局.png"
+      ],
+      "status": "completed",
+      "files": [
+        {
+          "path": "风格样图/S04-发布演唱会.png",
+          "mimeType": "image/png",
+          "bytes": 2301625,
+          "metadata": {
+            "index": 0,
+            "id": "ig_0f38366a8fed18df016ab7ea2cf8c087d098f516275f5b8fec",
+            "status": "completed",
+            "size": "1672x941",
+            "quality": "medium",
+            "output_format": "png"
+          }
+        }
+      ]
+    },
+    {
+      "id": "S05",
+      "slug": "业界震惊",
+      "title": "模型发布，同行的理智条归零",
+      "scene": "A comic industry reaction event inside the same pixel business simulation. On the left a large monitor displays a new model benchmark chart and a harmless cartoon yellow mushroom shaped burst icon inside the monitor only. On the right three tiny fictional rival researchers react beside their office chairs, one drops a coffee cup, one sits slumped on the floor, and one has enormous simple white shocked eyes. White square shock lines surround them. A large pale blue white popup reads INDUSTRY SHOCK. Two small stat bubbles read RIVAL MORALE DOWN and HYPE UP. Show no real bomb, no real explosion footage, no destroyed city, no injury and no weapon diagram. The mushroom shaped burst is a symbolic videogame icon representing an unexpectedly strong model release. The humor is the contrast between huge news and tiny office workers.",
+      "frame_role": "弹窗打断/角色反应",
+      "neta": "核爆比喻、震惊、瘫坐",
+      "prompt": "Create one wide 16 to 9 game screenshot that closely follows the supplied Game Dev Story references, not a poster, mood board or collage. The first input defines the original game visual grammar, including its cutaway three quarter overhead office, dense tiny pixel employees, tiled furniture placement, chunky numbered counters and blue white management interface. Additional inputs define the indicated interface layout or the fictional company continuity only. Preserve the crisp small sprite construction and stepped pixel edges of the original references, using a limited color palette, simple shaded rectangular furniture, warm wood floors and pale office walls. Treat the world as an approximately 384 by 216 logical pixel composition enlarged cleanly to 1536 by 864, with carefully aligned high resolution antialiased humanist sans serif interface text, as in the modern PC port reference. Scene sprites and icons remain pixelated, but popup body text must not use a pixel font. Use pale blue or near white popup bodies, blue gray bevel borders, a pale blue title strip, dark blue text, blue white top and bottom HUD bars and small selected command buttons with a hand pointer. Limit soft shading to the restrained classic interface bevel visible in the reference. Use green progress, yellow attention icons and red cost or bug warnings. Do not replace this interface with black space, cream retro fantasy panels, modern rounded app cards, glossy 3D, cinematic depth of field, realistic lighting, painted textures, giant portraits or detailed anime faces. The office remains visible around event windows. All company names and people are fictional. A comic industry reaction event inside the same pixel business simulation. On the left a large monitor displays a new model benchmark chart and a harmless cartoon yellow mushroom shaped burst icon inside the monitor only. On the right three tiny fictional rival researchers react beside their office chairs, one drops a coffee cup, one sits slumped on the floor, and one has enormous simple white shocked eyes. White square shock lines surround them. A large pale blue white popup reads INDUSTRY SHOCK. Two small stat bubbles read RIVAL MORALE DOWN and HYPE UP. Show no real bomb, no real explosion footage, no destroyed city, no injury and no weapon diagram. The mushroom shaped burst is a symbolic videogame icon representing an unexpectedly strong model release. The humor is the contrast between huge news and tiny office workers. The second input is only a reference for interface borders, menu hierarchy and small event sprites. Do not reproduce its game title, exact characters, or unrelated subject matter. The third input is the fictional company sample for recurring character clothing, office furniture and overall palette continuity. Follow the original game references for sprite density and interface structure.",
+      "prompt_path": "风格样图/S05-业界震惊.txt",
+      "references": [
+        "参考帧/视频抽帧/GDS_trailer_00m16s_办公室_斜视四人桌面.png",
+        "参考帧/视频抽帧/SM_trailer_00m51s_表情_技师OhWow震惊.png",
+        "风格样图/S01-办公室开局.png"
+      ],
+      "status": "completed",
+      "files": [
+        {
+          "path": "风格样图/S05-业界震惊.png",
+          "mimeType": "image/png",
+          "bytes": 2180232,
+          "metadata": {
+            "index": 0,
+            "id": "ig_0f9f6a007fc32ea1016ab7ea277be087d083f5b8003495ea7e",
+            "status": "completed",
+            "size": "1672x941",
+            "quality": "medium",
+            "output_format": "png"
+          }
+        }
+      ]
+    },
+    {
+      "id": "S06",
+      "slug": "开源价格战",
+      "title": "一键开源，价格也开始自由落体",
+      "scene": "A strategy choice window in a pixel AI company management game overlays a lively overhead office. The large pale blue white panel has two square option cards. The left card shows an open padlock and a gift box and reads OPEN WEIGHTS. The right card shows a closed padlock and a small coin stack and reads API SERVICE. A tiny founder presses a green RELEASE button between them. Beside the window a big chunky pixel price tag falls from 10 to 1, and a rival shop counter has a flashing SALE sign. A smiling crowd arrives at the door while the cash meter wobbles. Add small reward and cost icons for community, revenue and compute load. Make the tradeoff legible as a game mechanic rather than an assertion that all open weights models are open source.",
+      "frame_role": "策略选项/价格数值",
+      "neta": "开放权重与闭源API、价格战",
+      "prompt": "Create one wide 16 to 9 game screenshot that closely follows the supplied Game Dev Story references, not a poster, mood board or collage. The first input defines the original game visual grammar, including its cutaway three quarter overhead office, dense tiny pixel employees, tiled furniture placement, chunky numbered counters and blue white management interface. Additional inputs define the indicated interface layout or the fictional company continuity only. Preserve the crisp small sprite construction and stepped pixel edges of the original references, using a limited color palette, simple shaded rectangular furniture, warm wood floors and pale office walls. Treat the world as an approximately 384 by 216 logical pixel composition enlarged cleanly to 1536 by 864, with carefully aligned high resolution antialiased humanist sans serif interface text, as in the modern PC port reference. Scene sprites and icons remain pixelated, but popup body text must not use a pixel font. Use pale blue or near white popup bodies, blue gray bevel borders, a pale blue title strip, dark blue text, blue white top and bottom HUD bars and small selected command buttons with a hand pointer. Limit soft shading to the restrained classic interface bevel visible in the reference. Use green progress, yellow attention icons and red cost or bug warnings. Do not replace this interface with black space, cream retro fantasy panels, modern rounded app cards, glossy 3D, cinematic depth of field, realistic lighting, painted textures, giant portraits or detailed anime faces. The office remains visible around event windows. All company names and people are fictional. A strategy choice window in a pixel AI company management game overlays a lively overhead office. The large pale blue white panel has two square option cards. The left card shows an open padlock and a gift box and reads OPEN WEIGHTS. The right card shows a closed padlock and a small coin stack and reads API SERVICE. A tiny founder presses a green RELEASE button between them. Beside the window a big chunky pixel price tag falls from 10 to 1, and a rival shop counter has a flashing SALE sign. A smiling crowd arrives at the door while the cash meter wobbles. Add small reward and cost icons for community, revenue and compute load. Make the tradeoff legible as a game mechanic rather than an assertion that all open weights models are open source. The second input is only a reference for interface borders, menu hierarchy and small event sprites. Do not reproduce its game title, exact characters, or unrelated subject matter. The third input is the fictional company sample for recurring character clothing, office furniture and overall palette continuity. Follow the original game references for sprite density and interface structure.",
+      "prompt_path": "风格样图/S06-开源价格战.txt",
+      "references": [
+        "参考帧/视频抽帧/GDS_trailer_00m16s_办公室_斜视四人桌面.png",
+        "参考帧/视频抽帧/HSS_trailer_00m30s_数值_目标客群价格表.png",
+        "风格样图/S01-办公室开局.png"
+      ],
+      "status": "completed",
+      "files": [
+        {
+          "path": "风格样图/S06-开源价格战.png",
+          "mimeType": "image/png",
+          "bytes": 2279924,
+          "metadata": {
+            "index": 0,
+            "id": "ig_02be82137dacd77a016ab7eb0b50c887d2a47dd8f63aef1b24",
+            "status": "completed",
+            "size": "1672x941",
+            "quality": "medium",
+            "output_format": "png"
+          }
+        }
+      ]
+    },
+    {
+      "id": "S07",
+      "slug": "跑分登榜",
+      "title": "这次第一，下一秒也许就不是了",
+      "scene": "A large pale blue white ranking window with a dark pale blue title strip with dark blue text dominates an overhead AI office game screen. It reads MODEL RANKING. Five rows show deliberately fictional model names. STARDUST S1 is highlighted at rank 1 with a gold star, followed by ORBIT, SPARK, NOVA and ECHO. Use short colored stat bars instead of long text. A little yellow up arrow lifts the first row while a rival model sprite climbs a staircase at the edge. A small clock and NEXT RELEASE icon suggest that the lead is temporary. In the office behind the window, engineers celebrate with raised arms while one remains seated debugging. A secondary tiny warning badge reads EVAL NOT ALL. The mood is joyful but knowingly satirical about benchmark races.",
+      "frame_role": "排行榜/数字上涨",
+      "neta": "刷榜、模型迭代、跑分不是全部",
+      "prompt": "Create one wide 16 to 9 game screenshot that closely follows the supplied Game Dev Story references, not a poster, mood board or collage. The first input defines the original game visual grammar, including its cutaway three quarter overhead office, dense tiny pixel employees, tiled furniture placement, chunky numbered counters and blue white management interface. Additional inputs define the indicated interface layout or the fictional company continuity only. Preserve the crisp small sprite construction and stepped pixel edges of the original references, using a limited color palette, simple shaded rectangular furniture, warm wood floors and pale office walls. Treat the world as an approximately 384 by 216 logical pixel composition enlarged cleanly to 1536 by 864, with carefully aligned high resolution antialiased humanist sans serif interface text, as in the modern PC port reference. Scene sprites and icons remain pixelated, but popup body text must not use a pixel font. Use pale blue or near white popup bodies, blue gray bevel borders, a pale blue title strip, dark blue text, blue white top and bottom HUD bars and small selected command buttons with a hand pointer. Limit soft shading to the restrained classic interface bevel visible in the reference. Use green progress, yellow attention icons and red cost or bug warnings. Do not replace this interface with black space, cream retro fantasy panels, modern rounded app cards, glossy 3D, cinematic depth of field, realistic lighting, painted textures, giant portraits or detailed anime faces. The office remains visible around event windows. All company names and people are fictional. A large pale blue white ranking window with a dark pale blue title strip with dark blue text dominates an overhead AI office game screen. It reads MODEL RANKING. Five rows show deliberately fictional model names. STARDUST S1 is highlighted at rank 1 with a gold star, followed by ORBIT, SPARK, NOVA and ECHO. Use short colored stat bars instead of long text. A little yellow up arrow lifts the first row while a rival model sprite climbs a staircase at the edge. A small clock and NEXT RELEASE icon suggest that the lead is temporary. In the office behind the window, engineers celebrate with raised arms while one remains seated debugging. A secondary tiny warning badge reads EVAL NOT ALL. The mood is joyful but knowingly satirical about benchmark races. The second input is only a reference for interface borders, menu hierarchy and small event sprites. Do not reproduce its game title, exact characters, or unrelated subject matter. The third input is the fictional company sample for recurring character clothing, office furniture and overall palette continuity. Follow the original game references for sprite density and interface structure.",
+      "prompt_path": "风格样图/S07-跑分登榜.txt",
+      "references": [
+        "参考帧/视频抽帧/GDS_trailer_00m16s_办公室_斜视四人桌面.png",
+        "参考帧/视频抽帧/GDS_trailer_00m08s_发售榜单_MagazineReviews.png",
+        "风格样图/S01-办公室开局.png"
+      ],
+      "status": "completed",
+      "files": [
+        {
+          "path": "风格样图/S07-跑分登榜.png",
+          "mimeType": "image/png",
+          "bytes": 2057008,
+          "metadata": {
+            "index": 0,
+            "id": "ig_01a9b7aa4f105b4a016ab7eb109c4087d0a8084bfa997c39a2",
+            "status": "completed",
+            "size": "1672x941",
+            "quality": "medium",
+            "output_format": "png"
+          }
+        }
+      ]
+    },
+    {
+      "id": "S08",
+      "slug": "年度登顶",
+      "title": "年度最强公司，下一轮从零开始",
+      "scene": "A celebratory year end award event from a pixel company management game. An expanded overhead office fills the lower half, now containing eight workstations, healthy green plants and a tidy server corner. On a tiny platform a founder in a white shirt and a black hoodie engineer lift an oversized gold pixel trophy together. Flat square confetti falls behind a large pale blue white window reading COMPANY OF THE YEAR. Short stat rows read USERS 1M, RANK 1 and YEAR 03. A final orange button reads NEXT MODEL, and one workstation already has a new bug bubble, creating a small comic ending. Keep all typography inside modular game interface panels and leave a clean strip along the bottom for a later Chinese video caption. This is a joyful playable business simulation screen, not a promotional poster or glossy illustration.",
+      "frame_role": "获奖/办公室扩张",
+      "neta": "登顶、版本循环、永远还有bug",
+      "prompt": "Create one wide 16 to 9 game screenshot that closely follows the supplied Game Dev Story references, not a poster, mood board or collage. The first input defines the original game visual grammar, including its cutaway three quarter overhead office, dense tiny pixel employees, tiled furniture placement, chunky numbered counters and blue white management interface. Additional inputs define the indicated interface layout or the fictional company continuity only. Preserve the crisp small sprite construction and stepped pixel edges of the original references, using a limited color palette, simple shaded rectangular furniture, warm wood floors and pale office walls. Treat the world as an approximately 384 by 216 logical pixel composition enlarged cleanly to 1536 by 864, with carefully aligned high resolution antialiased humanist sans serif interface text, as in the modern PC port reference. Scene sprites and icons remain pixelated, but popup body text must not use a pixel font. Use pale blue or near white popup bodies, blue gray bevel borders, a pale blue title strip, dark blue text, blue white top and bottom HUD bars and small selected command buttons with a hand pointer. Limit soft shading to the restrained classic interface bevel visible in the reference. Use green progress, yellow attention icons and red cost or bug warnings. Do not replace this interface with black space, cream retro fantasy panels, modern rounded app cards, glossy 3D, cinematic depth of field, realistic lighting, painted textures, giant portraits or detailed anime faces. The office remains visible around event windows. All company names and people are fictional. A celebratory year end award event from a pixel company management game. An expanded overhead office fills the lower half, now containing eight workstations, healthy green plants and a tidy server corner. On a tiny platform a founder in a white shirt and a black hoodie engineer lift an oversized gold pixel trophy together. Flat square confetti falls behind a large pale blue white window reading COMPANY OF THE YEAR. Short stat rows read USERS 1M, RANK 1 and YEAR 03. A final orange button reads NEXT MODEL, and one workstation already has a new bug bubble, creating a small comic ending. Keep all typography inside modular game interface panels and leave a clean strip along the bottom for a later Chinese video caption. This is a joyful playable business simulation screen, not a promotional poster or glossy illustration. The second input is only a reference for interface borders, menu hierarchy and small event sprites. Do not reproduce its game title, exact characters, or unrelated subject matter. The third input is the fictional company sample for recurring character clothing, office furniture and overall palette continuity. Follow the original game references for sprite density and interface structure.",
+      "prompt_path": "风格样图/S08-年度登顶.txt",
+      "references": [
+        "参考帧/视频抽帧/GDS_trailer_00m16s_办公室_斜视四人桌面.png",
+        "参考帧/视频抽帧/HSS_trailer_00m44s_奖项_奖杯与奖金.png",
+        "风格样图/S01-办公室开局.png"
+      ],
+      "status": "completed",
+      "files": [
+        {
+          "path": "风格样图/S08-年度登顶.png",
+          "mimeType": "image/png",
+          "bytes": 2300003,
+          "metadata": {
+            "index": 0,
+            "id": "ig_08170c43c1c45242016ab7eb100b2087d09afcf16d7fb30ee0",
+            "status": "completed",
+            "size": "1672x941",
+            "quality": "medium",
+            "output_format": "png"
+          }
+        }
+      ]
+    }
+  ]
+}

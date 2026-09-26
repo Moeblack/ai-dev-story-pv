@@ -1,0 +1,22 @@
+# Python / uv
+.venv/
+.uv-cache/
+__pycache__/
+*.pyc
+
+# 可重新下载的大模型权重（ModelScope pengzhendong/faster-whisper-medium）
+成片工程/分析/fw-medium/
+
+# 渲染中间产物（pv/render.py、pv/audio.py 会重新生成）
+成片工程/输出/
+
+# 已中止的第一版 lead 工程残留（未用于成片）
+工程/
+
+# 第三方版权素材：本地保留，不进公开仓库（出处见 文档/）
+音频/
+参考视频/
+参考帧/
+meme/
+# 成片含第三方 BGM，发布在 GitHub Release
+成片/*.mp4

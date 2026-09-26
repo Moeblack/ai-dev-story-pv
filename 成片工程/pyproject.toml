@@ -1,0 +1,20 @@
+[project]
+name = "ai-dev-story-pv"
+version = "0.1.0"
+requires-python = ">=3.12,<3.14"
+dependencies = [
+    "pillow",
+    "numpy",
+    "librosa",
+    "soundfile",
+    "faster-whisper",
+    "scipy",
+    "fonttools>=4.66.0",
+]
+
+[[tool.uv.index]]
+name = "nju"
+url = "https://mirror.nju.edu.cn/pypi/web/simple"
+
+[tool.uv]
+index-strategy = "first-index"

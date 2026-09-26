@@ -1,0 +1,7 @@
+Faithfully imitate the pixel art of Kairosoft's Game Dev Story (first reference image): cutaway isometric three-quarter overhead view, crisp small pixel sprites with stepped edges, tiny chibi employees about two heads tall with big heads, warm wood floors, pale grey office walls, low-saturation palette with mint and cyan accents, one-pixel dark outlines, flat cel shading, no gradients, no blur, no painterly texture. Treat the picture as roughly a 480x270 logical-pixel game scene enlarged cleanly. IMPORTANT: this is a clean full-bleed game world plate only. Absolutely NO user interface, NO HUD bars, NO popups, NO buttons, NO cursor, NO text, NO letters, NO numbers, NO logos anywhere; posters, banners and screens show only blank panels or simple pictograms. Wide 16:9 composition.
+
+Scene: The same AI startup office late at night, lit by monitor glow and blue light: employees crunching at computers, one asleep face-down on the desk, one drinking from a huge coffee cup, instant noodle cups and energy drinks piled up, server racks glowing cyan and running hot with tiny heat waves, a wall clock, dark windows with city lights outside.
+
+refs:
+/mnt/data/Workspace/AI公司PV-开罗风/参考帧/视频抽帧/GDS_trailer_00m16s_办公室_斜视四人桌面.png
+/mnt/data/Workspace/AI公司PV-开罗风/风格样图/S03-模型开发.png

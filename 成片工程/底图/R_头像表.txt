@@ -1,0 +1,7 @@
+Faithfully imitate the pixel art of Kairosoft's Game Dev Story (first reference image): cutaway isometric three-quarter overhead view, crisp small pixel sprites with stepped edges, tiny chibi employees about two heads tall with big heads, warm wood floors, pale grey office walls, low-saturation palette with mint and cyan accents, one-pixel dark outlines, flat cel shading, no gradients, no blur, no painterly texture. Treat the picture as roughly a 480x270 logical-pixel game scene enlarged cleanly. IMPORTANT: this is a clean full-bleed game world plate only. Absolutely NO user interface, NO HUD bars, NO popups, NO buttons, NO cursor, NO text, NO letters, NO numbers, NO logos anywhere; posters, banners and screens show only blank panels or simple pictograms. Wide 16:9 composition.
+
+Scene: A character portrait sheet on a plain flat light-grey background: a 3 by 2 grid of six Kairosoft-style pixel-art chibi head-and-shoulders portraits, evenly spaced with generous gaps, each facing front: 1) genius teenage boy with messy hair and hoodie, 2) veteran chief scientist with grey beard and glasses, 3) tired hyperparameter-tuning engineer with eye bags, 4) confident young woman researcher with ponytail, 5) slick businessman in suit holding a slide clicker, 6) cheerful intern with round glasses. No text.
+
+refs:
+/mnt/data/Workspace/AI公司PV-开罗风/参考帧/视频抽帧/GDS_trailer_00m16s_办公室_斜视四人桌面.png
+/mnt/data/Workspace/AI公司PV-开罗风/风格样图/S02-招聘挖人.png
